@@ -1,14 +1,13 @@
 {
   "name": "example-layout",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "author": {
-    "name": "ICE Team",
-    "email": "ice-admin@alibaba-inc.com"
+    "name": "worklinwu",
+    "email": "worklinwu@gmail.com"
   },
   "files": [
-    "src/",
-    "lib/"
+    "src/"
   ],
   "dependencies": {
     "vue": "^2.5.16"

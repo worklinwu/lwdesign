@@ -1,6 +1,6 @@
 <template>
   <div className="example-block">
-    <h1>ExampleBlock</h1>
+    <h1>ExampleBlock!</h1>
   </div>
 </template>
 
